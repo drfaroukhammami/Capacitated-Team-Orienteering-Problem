@@ -1,0 +1,11 @@
+Instance_Name
+
+Number_of_Vehicles
+Vehicle_Capacity
+Route_Duration
+
+Depot_coordinates
+
+Number_of_Customers
+
+Customer_coordinates Customer_demand Customer_service_time Customer_profit
